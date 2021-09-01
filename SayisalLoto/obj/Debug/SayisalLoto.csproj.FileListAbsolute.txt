@@ -1,0 +1,28 @@
+C:\Users\OGRENCI\Documents\Visual Studio 2008\Projects\SayisalLoto\SayisalLoto\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\OGRENCI\Documents\Visual Studio 2008\Projects\SayisalLoto\SayisalLoto\obj\Debug\SayisalLoto.Form1.resources
+C:\Users\OGRENCI\Documents\Visual Studio 2008\Projects\SayisalLoto\SayisalLoto\obj\Debug\SayisalLoto.Properties.Resources.resources
+C:\Users\OGRENCI\Documents\Visual Studio 2008\Projects\SayisalLoto\SayisalLoto\obj\Debug\SayisalLoto.csproj.GenerateResource.Cache
+C:\Users\OGRENCI\Documents\Visual Studio 2008\Projects\SayisalLoto\SayisalLoto\bin\Debug\SayisalLoto.exe
+C:\Users\OGRENCI\Documents\Visual Studio 2008\Projects\SayisalLoto\SayisalLoto\bin\Debug\SayisalLoto.pdb
+C:\Users\OGRENCI\Documents\Visual Studio 2008\Projects\SayisalLoto\SayisalLoto\obj\Debug\SayisalLoto.exe
+C:\Users\OGRENCI\Documents\Visual Studio 2008\Projects\SayisalLoto\SayisalLoto\obj\Debug\SayisalLoto.pdb
+C:\Users\Jacqueliny\Desktop\SayisalLoto\SayisalLoto\bin\Debug\SayisalLoto.exe
+C:\Users\Jacqueliny\Desktop\SayisalLoto\SayisalLoto\bin\Debug\SayisalLoto.pdb
+C:\Users\Jacqueliny\Desktop\SayisalLoto\SayisalLoto\obj\Debug\SayisalLoto.Form1.resources
+C:\Users\Jacqueliny\Desktop\SayisalLoto\SayisalLoto\obj\Debug\SayisalLoto.Properties.Resources.resources
+C:\Users\Jacqueliny\Desktop\SayisalLoto\SayisalLoto\obj\Debug\SayisalLoto.sonuclar.resources
+C:\Users\Jacqueliny\Desktop\SayisalLoto\SayisalLoto\obj\Debug\SayisalLoto.csproj.GenerateResource.cache
+C:\Users\Jacqueliny\Desktop\SayisalLoto\SayisalLoto\obj\Debug\SayisalLoto.csproj.CoreCompileInputs.cache
+C:\Users\Jacqueliny\Desktop\SayisalLoto\SayisalLoto\obj\Debug\SayisalLoto.exe
+C:\Users\Jacqueliny\Desktop\SayisalLoto\SayisalLoto\obj\Debug\SayisalLoto.pdb
+C:\Users\Jacqueliny\Desktop\SayisalLoto\SayisalLoto\obj\Debug\SayisalLoto.csprojAssemblyReference.cache
+C:\Users\Hypebive\Desktop\SayisalLoto\SayisalLoto\bin\Debug\SayisalLoto.exe
+C:\Users\Hypebive\Desktop\SayisalLoto\SayisalLoto\bin\Debug\SayisalLoto.pdb
+C:\Users\Hypebive\Desktop\SayisalLoto\SayisalLoto\obj\Debug\SayisalLoto.csproj.AssemblyReference.cache
+C:\Users\Hypebive\Desktop\SayisalLoto\SayisalLoto\obj\Debug\SayisalLoto.Form1.resources
+C:\Users\Hypebive\Desktop\SayisalLoto\SayisalLoto\obj\Debug\SayisalLoto.Properties.Resources.resources
+C:\Users\Hypebive\Desktop\SayisalLoto\SayisalLoto\obj\Debug\SayisalLoto.sonuclar.resources
+C:\Users\Hypebive\Desktop\SayisalLoto\SayisalLoto\obj\Debug\SayisalLoto.csproj.GenerateResource.cache
+C:\Users\Hypebive\Desktop\SayisalLoto\SayisalLoto\obj\Debug\SayisalLoto.csproj.CoreCompileInputs.cache
+C:\Users\Hypebive\Desktop\SayisalLoto\SayisalLoto\obj\Debug\SayisalLoto.exe
+C:\Users\Hypebive\Desktop\SayisalLoto\SayisalLoto\obj\Debug\SayisalLoto.pdb
